@@ -1,0 +1,12 @@
+services:
+  web:
+    build:
+      context: ../Learn-English-Flutter
+    ports:
+      - "8081:80"
+
+  server:
+    build:
+      context: ../Learn-English-Ktor
+    ports:
+      - "8080:8080"

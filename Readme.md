@@ -14,3 +14,9 @@ http://localhost:8081/
 http://localhost:8080/
 
 Fix CORS (Flutter or Ktor)
+
+client
+http://188.245.34.66:80
+
+server
+http://188.245.34.66:8080
